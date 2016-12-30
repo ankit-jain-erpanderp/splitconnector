@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(helloworld:greet) -->
+    <helloworld:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(helloworld:greet) -->
